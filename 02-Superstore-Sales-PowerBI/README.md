@@ -1,6 +1,6 @@
 # Superstore Sales Dashboard | Power BI
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.PNG)
 
 ## Business Problem
 A retail store manager wants to know:
