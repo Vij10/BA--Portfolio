@@ -1,14 +1,35 @@
-# Business Analyst Portfolio — Vijayalakshmi
+# Business Analyst Portfolio
 
-Case studies and requirements documents from my work as a Business Analyst, focused on tech and product teams.
+Hi, I'm Vijayalakshmi R, a Business Analyst based in Kenya and open to remote roles.
+I turn business problems into clear requirements, data insights and recommendations.
 
-## Contents
+📧 Vlakshmir10@gmail.com · 💼 https://www.linkedin.com/in/vijayalakshmir10/
 
-- **Case-Study-Self-Service-Returns.pdf** — One-page summary of a self-service returns & refunds feature: the business problem, key decisions, and targeted outcomes.
-- **BRD-Self-Service-Returns-Refunds.pdf** — Full business requirements document backing the case study, including user stories, acceptance criteria, stakeholder RACI, risk register, and success metrics.
+---
 
-## About me
+## Skills
+- **Business Analysis:** requirements gathering, BRDs, process mapping, user stories, stakeholder communication
+- **Data Analysis:** SQL (MySQL), Excel
+- **Data Visualisation:** Power BI (DAX, Power Query), Tableau
+- **Business Thinking:** KPIs, profitability analysis, insights and recommendations
 
-Business Analyst with 3–7 years of experience in tech/software, focused on requirements gathering, data analysis, process improvement, and agile facilitation. Currently looking for senior BA opportunities, open to remote oppurtunites.
+---
 
-[LinkedIn](https://www.linkedin.com/in/vijayalakshmir10/) · [Email](mailto:Vlakshmir10@gmail.com)
+## Projects
+
+### 1. Self-Service Returns & Refunds | BRD & Case Study
+Business Requirements Document and case study for a self-service returns and refunds process.
+**Skills:** requirements gathering, process analysis, documentation
+📂 [View project](01-Self-Service-Returns-BRD/)
+
+### 2. Superstore Sales Dashboard | Power BI
+Interactive dashboard analysing ~10,000 retail sales records ($2.3M in sales).
+- Found that Tables, Bookcases and Supplies lost **$22K combined**
+- Showed the Central region's margin (8%) is about **half the West's** (15%)
+
+**Skills:** Power BI, DAX, Power Query, data storytelling
+📂 [View project](02-Superstore-Sales-PowerBI/)
+
+
+## Contact
+I'm open to remote Business Analyst roles. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/your-profile) or by email.
