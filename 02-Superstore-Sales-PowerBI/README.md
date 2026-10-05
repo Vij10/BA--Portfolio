@@ -1,6 +1,7 @@
 # Superstore Sales Dashboard | Power BI
 
-(Dashboard.png)
+<img width="1328" height="741" alt="Dashboard" src="https://github.com/user-attachments/assets/6b12357e-5938-46f3-bfd4-eb23028464e1" />
+
 
 ## Business Problem
 A retail store manager wants to know:
